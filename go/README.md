@@ -2,7 +2,7 @@
 A list of Go resources that I find useful. 
 
 ## Design Pattern Resources
-[title](https://refactoring.guru/design-patterns/catalog)
+[Refactoring guru](https://refactoring.guru/design-patterns/catalog)
 
 ## Concurrency Resources
 
